@@ -90,13 +90,20 @@ Whether you're preparing for a software engineering interview, product managemen
 ## 🎬 Demo
 
 ### Main Interface
-![Main Interface](https://via.placeholder.com/800x450.png?text=Interview+Coach+Main+Interface)
+![Main Interface](<img width="1900" height="831" alt="Screenshot 2026-02-06 152418" src="https://github.com/user-attachments/assets/b7cd9eaf-788c-454e-8011-79ad863db47a" />
+)<img width="1749" height="1047" alt="Screenshot 2026-02-06 152424" src="https://github.com/user-attachments/assets/e802f0ff-8a06-4159-b419-1091e4d69a3c" />
+
 
 ### Live Recording with Real-Time Feedback
-![Live Recording](https://via.placeholder.com/800x450.png?text=Real-Time+AI+Feedback)
+![Live Recording](
+
+https://github.com/user-attachments/assets/4b0ae82c-1463-4455-bfc0-19d9c3986afa
+
+)
 
 ### Detailed Performance Report
-![Performance Report](https://via.placeholder.com/800x450.png?text=AI+Performance+Analysis)
+![Performance Report](<img width="1679" height="1070" alt="Screenshot 2026-02-06 152350" src="https://github.com/user-attachments/assets/085deddf-fdc2-4126-9dc2-76a960c4faf8" />
+)
 
 ---
 
